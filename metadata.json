@@ -1,0 +1,6 @@
+{
+  "name": "Voxel Craft",
+  "description": "A 3D isometric pixel-art block sandbox building and survival game like Minecraft with procedural terrain, day/night cycles, crafting, inventory, physics, and world saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
